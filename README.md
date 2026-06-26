@@ -1,2 +1,2 @@
 # LabScheduler
-Labschedular
+Labscheduler
